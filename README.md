@@ -41,3 +41,10 @@ The git push command is used to upload local repository content to a remote repo
 
 ## git log
 Git log is a utility tool to review and read a history of everything that happens to a repository. Multiple options can be used with a git log to make history more specific. Generally, the git log is a record of commits.
+
+![2022-04-09 (7)](https://user-images.githubusercontent.com/86183161/162560291-528c7d43-9761-4f32-8032-934f415e90c5.png)
+![2022-04-09 (3)](https://user-images.githubusercontent.com/86183161/162560300-e6013189-55b7-421b-9dc2-8d2329faa25d.png)
+![2022-04-09 (5)](https://user-images.githubusercontent.com/86183161/162560307-2a609ef5-0588-4b54-a4cb-e9829ec552eb.png)
+![lmoo;ll;](https://user-images.githubusercontent.com/86183161/162560355-fb532310-6b8c-4a8a-9d85-a41c758ff390.png)
+
+
