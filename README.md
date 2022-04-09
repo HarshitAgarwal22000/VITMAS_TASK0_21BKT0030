@@ -1,4 +1,4 @@
-# BASIC GIT COMMANDS
+# GIT COMMANDS
 Git commands are a distributed version control system for tracking changes in any set of files. They were originally designed for coordinating work among programmers who were operating source codes during software development.
 
 ## git init
